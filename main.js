@@ -19,7 +19,7 @@ const player2 = {
         console.log(player2.name + ' ' + 'Fight...');
     }
 
-};
+}; 
 player2.attack();
 
 player2.weapon = ['kick'];
